@@ -1,0 +1,8 @@
+"Tokens"
+{
+// --- Vereinfachtes Radar-Skalierungs-Wheel ---
+"Radar_Wheel_0.35"        "Skala → 0.35 (für Dust2)"
+"Radar_Wheel_0.4"         "Skala → 0.4 (Standard)"
+"Radar_Wheel_0.5"         "Skala → 0.5 (für Nuke)"
+	
+}
