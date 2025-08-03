@@ -55,6 +55,7 @@ Link your labels to in-game actions.
 **Example:**
 
 ```csharp
+// Commands for Chat Wheel 1
 alias "wheel_1_slot_1" "cl_radar_scale 0.35"
 alias "wheel_1_slot_2" "cl_radar_scale 0.4"
 alias "wheel_1_slot_7" "volume 0.03"
