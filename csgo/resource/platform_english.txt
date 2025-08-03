@@ -2,22 +2,22 @@
 {
 // Labels for chatwheels
 "Wheel_1_slot_1_label"         "Radar → 0.35 (for Dust2)"
-"Wheel_1_slot_2_label"         "Radar → 0.4 (Standard)"
+"Wheel_1_slot_2_label"         "Radar → 0.4 (for Mirage)"
 "Wheel_1_slot_3_label"         "Radar → 0.5 (for Nuke)"
 "Wheel_1_slot_4_label"         ""
 "Wheel_1_slot_5_label"         ""
 "Wheel_1_slot_6_label"         ""
-"Wheel_1_slot_7_label"         "Volume Competitive"
-"Wheel_1_slot_8_label"         "Volume Casual"
+"Wheel_1_slot_7_label"         "Volume Casual"
+"Wheel_1_slot_8_label"         "Volume Competitive"
 
 "Wheel_2_slot_1_label"         "Load training exec"
 "Wheel_2_slot_2_label"         ""
 "Wheel_2_slot_3_label"         "Load aim_beat ak47 exec"
 "Wheel_2_slot_4_label"         "Load aim_beat awp exec"
-"Wheel_2_slot_5_label"         ""
-"Wheel_2_slot_6_label"         ""
+"Wheel_2_slot_5_label"         "Rethrow last grenade"
+"Wheel_2_slot_6_label"         "Kill smokes"
 "Wheel_2_slot_7_label"         "Show bullet impact"
-"Wheel_2_slot_8_label"         ""
+"Wheel_2_slot_8_label"         "Show Grenade Trajectory"
 
 "Wheel_3_slot_1_label"         ""
 "Wheel_3_slot_2_label"         ""
