@@ -1,0 +1,30 @@
+"Tokens"
+{
+// Labels for chatwheels
+"Wheel_1_slot_1_label"         ""
+"Wheel_1_slot_2_label"         ""
+"Wheel_1_slot_3_label"         ""
+"Wheel_1_slot_4_label"         ""
+"Wheel_1_slot_5_label"         ""
+"Wheel_1_slot_6_label"         ""
+"Wheel_1_slot_7_label"         ""
+"Wheel_1_slot_8_label"         ""
+
+"Wheel_2_slot_1_label"         ""
+"Wheel_2_slot_2_label"         ""
+"Wheel_2_slot_3_label"         ""
+"Wheel_2_slot_4_label"         ""
+"Wheel_2_slot_5_label"         ""
+"Wheel_2_slot_6_label"         ""
+"Wheel_2_slot_7_label"         ""
+"Wheel_2_slot_8_label"         ""
+
+"Wheel_3_slot_1_label"         ""
+"Wheel_3_slot_2_label"         ""
+"Wheel_3_slot_3_label"         ""
+"Wheel_3_slot_4_label"         ""
+"Wheel_3_slot_5_label"         ""
+"Wheel_3_slot_6_label"         ""
+"Wheel_3_slot_7_label"         ""
+"Wheel_3_slot_8_label"         ""
+}
