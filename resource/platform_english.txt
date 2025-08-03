@@ -1,8 +1,30 @@
 "Tokens"
 {
-// --- Vereinfachtes Radar-Skalierungs-Wheel ---
-"Radar_Wheel_0.35"        "Skala → 0.35 (für Dust2)"
-"Radar_Wheel_0.4"         "Skala → 0.4 (Standard)"
-"Radar_Wheel_0.5"         "Skala → 0.5 (für Nuke)"
-	
+// Labels for chatwheels
+"wheel_1_slot_1_label"         "Radar → 0.35 (for Dust2)"
+"wheel_1_slot_2_label"         "Radar → 0.4 (Standard)"
+"wheel_1_slot_3_label"         "Radar → 0.5 (for Nuke)"
+"wheel_1_slot_4_label"         ""
+"wheel_1_slot_5_label"         ""
+"wheel_1_slot_6_label"         ""
+"wheel_1_slot_7_label"         ""
+"wheel_1_slot_8_label"         ""
+
+"wheel_2_slot_1_label"         ""
+"wheel_2_slot_2_label"         ""
+"wheel_2_slot_3_label"         ""
+"wheel_2_slot_4_label"         ""
+"wheel_2_slot_5_label"         ""
+"wheel_2_slot_6_label"         ""
+"wheel_2_slot_7_label"         ""
+"wheel_2_slot_8_label"         ""
+
+"wheel_3_slot_1_label"         ""
+"wheel_3_slot_2_label"         ""
+"wheel_3_slot_3_label"         ""
+"wheel_3_slot_4_label"         ""
+"wheel_3_slot_5_label"         ""
+"wheel_3_slot_6_label"         ""
+"wheel_3_slot_7_label"         ""
+"wheel_3_slot_8_label"         ""
 }
