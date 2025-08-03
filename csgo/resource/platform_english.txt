@@ -7,8 +7,8 @@
 "Wheel_1_slot_4_label"         ""
 "Wheel_1_slot_5_label"         ""
 "Wheel_1_slot_6_label"         ""
-"Wheel_1_slot_7_label"         ""
-"Wheel_1_slot_8_label"         ""
+"Wheel_1_slot_7_label"         "Volume Competitive"
+"Wheel_1_slot_8_label"         "Volume Casual"
 
 "Wheel_2_slot_1_label"         "Load training exec"
 "Wheel_2_slot_2_label"         ""
@@ -16,7 +16,7 @@
 "Wheel_2_slot_4_label"         "Load aim_beat awp exec"
 "Wheel_2_slot_5_label"         ""
 "Wheel_2_slot_6_label"         ""
-"Wheel_2_slot_7_label"         ""
+"Wheel_2_slot_7_label"         "Show bullet impact"
 "Wheel_2_slot_8_label"         ""
 
 "Wheel_3_slot_1_label"         ""
